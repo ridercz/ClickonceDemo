@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickonceDemo", "ClickonceDemo.csproj", "{6C00344D-E57F-4D1A-B851-0C268AFD7D4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C00344D-E57F-4D1A-B851-0C268AFD7D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C00344D-E57F-4D1A-B851-0C268AFD7D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C00344D-E57F-4D1A-B851-0C268AFD7D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C00344D-E57F-4D1A-B851-0C268AFD7D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B796ED68-0DD1-4B0A-959C-925B029D143C}
+	EndGlobalSection
+EndGlobal
